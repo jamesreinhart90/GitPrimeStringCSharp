@@ -1,0 +1,7 @@
+C:\Users\jreinhart\source\repos\PrimeStringCSharp\PrimeStringCSharp\bin\Debug\PrimeStringCSharp.exe.config
+C:\Users\jreinhart\source\repos\PrimeStringCSharp\PrimeStringCSharp\bin\Debug\PrimeStringCSharp.exe
+C:\Users\jreinhart\source\repos\PrimeStringCSharp\PrimeStringCSharp\bin\Debug\PrimeStringCSharp.pdb
+C:\Users\jreinhart\source\repos\PrimeStringCSharp\PrimeStringCSharp\obj\Debug\PrimeStringCSharp.csprojAssemblyReference.cache
+C:\Users\jreinhart\source\repos\PrimeStringCSharp\PrimeStringCSharp\obj\Debug\PrimeStringCSharp.csproj.CoreCompileInputs.cache
+C:\Users\jreinhart\source\repos\PrimeStringCSharp\PrimeStringCSharp\obj\Debug\PrimeStringCSharp.exe
+C:\Users\jreinhart\source\repos\PrimeStringCSharp\PrimeStringCSharp\obj\Debug\PrimeStringCSharp.pdb
